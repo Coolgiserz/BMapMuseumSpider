@@ -37,3 +37,4 @@ for bm in bmap_data:
                 for da in data:
 
                     bmap_all_collections.insert_one(da)
+
